@@ -1,0 +1,4 @@
+1,22,Ionescu Vasile,100.56,T
+2,23,Vasilescu,1500,G
+3,22,Popescu,1560,R
+4,24,Gigel,2060.56,P
