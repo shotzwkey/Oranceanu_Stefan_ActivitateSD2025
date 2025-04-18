@@ -1,0 +1,10 @@
+1,30,6070,Ionescu, Maria,S
+2,50,5000,Popescu,Vasile,H
+3,40,4070,Vasilescu,Gigi,D
+4,57,3000,Marin,Ioana,L
+5,39,7000,Gheorghe,Ana,E
+6,52,5500,Nita,Florin,V
+7,39,8070,Alexe,Stefan,M
+8,60,6600,Vasile,Andreea,E
+9,35,5080,Ion,Mihai,S
+10,54,3000,Costache,Ana,I
